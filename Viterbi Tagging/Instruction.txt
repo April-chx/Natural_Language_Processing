@@ -1,0 +1,14 @@
+Environment:
+----- Anaconda python3.6
+
+Step 1:
+----- feature_one_eng.py # It will generate a result csv file and output the result.
+----- feature_one_deu.py # It will generate a result csv file and output the result.
+
+Step 2:
+----- feature_two_eng.py # It will generate a result csv file and output the result.
+----- feature_two_deu.py # It will generate a new dataset and in the current folder and output the result.
+
+Step 2:
+----- feature_other_eng.py # It will generate a result csv file and output the result.
+----- feature_other_deu.py # It will generate a result csv file and output the result.
